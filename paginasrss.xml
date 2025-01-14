@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+  <channel>
+     <title>Mercado de fichajes en directo</title>
+     <a href="Noticia1.html">Mercado de fichajes</a>
+     <description>Te contamos todos los detalles sobre los fichajes de este 13 de enero de 2025</description>
+     
+     <item>
+       <title>Sevilla y River Plate, más cerca del acuerdo por Montiel</title>
+       <a href="Noticia2.html">Montiel</a>
+       <description>El lateral argentino puede estar viviendo sus últimos días como futbolista del club de Nervión</description>
+     </item>
+
+  </channel>
+</rss>
